@@ -1,0 +1,8 @@
+.git
+.github
+.terraform
+terraform.tfstate*
+*.pem
+*.key
+node_modules
+README.md
